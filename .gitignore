@@ -44,4 +44,7 @@ bin/
 
 .node_modules
 
-.package
+package.json
+package-lock.json
+settings.gradle.kts
+build.gradle.kts
